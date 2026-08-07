@@ -1,0 +1,77 @@
+.main{
+    width: 50%;
+    justify-content:center;
+    margin: auto;
+    border: 4px solid rgb(220, 197, 197);
+    background-color: rgba(239, 238, 238, 0.341);
+    border-radius:8px;
+   
+    box-shadow: inset;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 18vw;
+    object-fit: cover;
+}
+.navbar-nav {
+    margin:0 auto;
+  }
+.navbar-brand{
+    font-family: cursive;
+    color:orange !important;
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+}
+input{
+    background: transparent;  
+}
+#inputnumber{
+    text-decoration-style: none;
+}
+#validationDefault04{
+    background-color: black;
+    color: white;
+}
+#validationDefault01{
+    background-color: black;
+    color: white;
+}
+#validationDefault02{
+    background-color: black;
+    color: white;
+}
+#validationDefault03{
+    background-color: black;
+    color: white;
+}
+#validationDefaultUsername{
+    background-color: black;
+    color: white;
+
+}
+label{
+    color:black;
+}
+ul li{
+    color:black;
+}
+a{
+    text-decoration: none !important;
+    
+    
+}
+#submit{
+    text-decoration: none !important;
+    background-color:rgb(167, 184, 11);
+    color: black;
+    
+    
+}
+
+#price::placeholder{
+    color: brown;
+    opacity: 1;
+}

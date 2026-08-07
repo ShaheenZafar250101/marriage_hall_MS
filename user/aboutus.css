@@ -1,0 +1,32 @@
+.navbar-nav {
+  margin:0 auto;
+}
+.navbar-brand{
+  font-family: cursive;
+  color:orange !important;
+}
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:10px;
+}
+.container{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.background{
+  background-image: url(./images/3.jpg);
+}
+.background p{
+  color: white;
+}
+.contact{
+  background-color:orange; 
+  color:black; 
+  text-align: center;
+  font-family: 'Courier New';
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.contact-name{
+  font-family: cursive;
+  color:orange;
+}

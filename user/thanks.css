@@ -1,0 +1,20 @@
+.main{
+    width: 50%;
+    justify-content:center;
+    margin: auto;
+    border: 4px solid rgb(220, 197, 197);
+    background-color: rgba(239, 238, 238, 0.341);
+    border-radius:8px;
+   
+    box-shadow: inset;
+
+}
+
+body{
+    background-color:white;
+    background-size: cover;}
+
+h6{
+    color: blue;
+
+}

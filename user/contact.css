@@ -1,0 +1,13 @@
+
+
+.navbar-nav {
+    margin:0 auto;
+  }
+  .navbar-brand{
+    font-family: cursive;
+    color:orange !important;
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+}

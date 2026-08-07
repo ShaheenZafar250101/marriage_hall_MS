@@ -1,0 +1,89 @@
+.card-img-top {
+    width: 100%;
+    height: 18vw;
+    object-fit: cover;
+}
+.navbar-nav {
+    margin:0 auto;
+  }
+.navbar-brand{
+    font-family: cursive;
+    color:orange !important;
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+}
+.card-body{
+    background-color: aliceblue;
+}
+.card-body:hover{
+    background-color: #d6eeee;
+    color:black;
+    
+    
+}
+.card-body:hover h5{
+    background-color: transparent;
+    color:rgb(255, 213, 0);
+    
+}
+
+
+
+
+
+.btn a{
+    /* text-decoration: none !important; */
+    text-decoration :none; 
+    color:inherit;
+}
+.service{
+    background-color:orange; 
+    color:black; 
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.services{
+    background-color: aqua;
+}
+.about{
+    background-color:orange; 
+    color:black; 
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.contact{
+    background-color:orange; 
+    color:black; 
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.card-title{
+    height: 50px;
+    text-align: center;
+}
+.card-text{
+    height: 150px;
+}
+.logo-image{
+    border-radius: 10px;
+}
+.pad-icon:hover{
+  font-size: x-large;
+  text-decoration: none !important;
+}
+.contact-name{
+    font-family: cursive;
+    color:orange;
+}
+.fa{
+    text-decoration: none !important;
+}
+
